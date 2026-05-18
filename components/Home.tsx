@@ -35,11 +35,11 @@ export function Home() {
         style={{ backgroundImage: "url('/img1.jpg')" }}
       >
         <div className="flex items-center justify-center">
-          <h2 className="text-[64px] -mt-20 text-vrayi">{names[1]}</h2>
-          <span className="text-9xl -mt-20 text-taki"> & </span>
-          <h2 className="text-[64px] mb-20 text-vrayi">{names[0]}</h2>
+          <h2 className="text-[64px] -mt-20 text-white">{names[1]}</h2>
+          <span className="text-9xl -mt-20 text-[#ffffff1a]"> & </span>
+          <h2 className="text-[64px] mb-20 text-white">{names[0]}</h2>
         </div>
-        <p className="FontSHK_Dzeragir text-[64px] text-vrayi">{date}</p>
+        <p className="FontSHK_Dzeragir text-[64px] text-white">{date}</p>
       </div>
 
       <div className="FontSHK_Dzeragir px-5 my-20">
