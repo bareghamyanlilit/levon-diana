@@ -24,3 +24,5 @@ export const anim: any = {
   },
   viewport: { once: true },
 };
+
+export const rsvp='https://script.google.com/macros/s/AKfycbxPeVur27UkIvT_vQ4TAieTj_bZ0AkV3SbG8dK1oWVSj-iEvbQhhzqTl75vpRy87ewd/exec'

@@ -6,6 +6,7 @@ import { MusicPlayer } from "./music";
 import { anim, date, names, txt1, txt1_1, txt2, txt2_1, txt3, vazoxTox } from "@/data/data";
 import { motion } from "framer-motion";
 import Link from "next/link";
+import AttendanceGuests from "./RSVP";
 
 export function Home() {
   const [isPlaying, setIsPlaying] = useState(false);
@@ -30,7 +31,7 @@ export function Home() {
       </div>
 
       <div
-        className="FontSHK_Dzeragir py-20  tracking-0 h-screen bg-cover bg-top flex flex-col justify-between pt-20 p-7 "
+        className="FontSHK_Dzeragir py-20  tracking-0 h-[80vh] bg-cover bg-top flex flex-col justify-between pt-20 p-7 "
         style={{ backgroundImage: "url('/img1.jpg')" }}
       >
         <div className="flex items-center justify-center">
@@ -86,7 +87,7 @@ export function Home() {
           alt="icon1"
           width={500}
           height={500}
-          className="w-[60vw] h-[60vw] rotate-30 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 absolute object-cover  "
+          className="w-[60vw] h-[60vw] md:w-[20vw] md:h-[20vw] rotate-10 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 absolute object-cover  "
         />
       </div>
 
@@ -132,6 +133,7 @@ export function Home() {
           {txt2_1}
         </span>
       </motion.p>
+      <AttendanceGuests />
     </div>
   );
 }
