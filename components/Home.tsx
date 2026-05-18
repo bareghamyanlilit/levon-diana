@@ -9,21 +9,6 @@ import Link from "next/link";
 
 export function Home() {
   const [isPlaying, setIsPlaying] = useState(false);
-  // const [loading, setLoading] = useState(true);
-
-  // useEffect(() => {
-  //   setTimeout(() => {
-  //     setLoading(false);
-  //   }, 2500);
-  // }, []);
-
-  // if (loading) {
-  //   return (
-  //     <div className="FontSHK_Dzeragir flex items-center justify-center h-screen text-3xl">
-  //       Loading...
-  //     </div>
-  //   );
-  // }
   return (
     <div className="text-center overflow-hidden  FontSHK_Dzeragir ">
       {/* music button */}
