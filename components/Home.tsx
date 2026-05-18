@@ -31,13 +31,13 @@ export function Home() {
       </div>
 
       <div
-        className="FontSHK_Dzeragir py-20  tracking-0 h-[80vh] bg-cover bg-top flex flex-col justify-between pt-20 p-7 "
+        className="FontSHK_Dzeragir py-15  tracking-0 h-[75vh] bg-cover bg-top flex flex-col justify-between pt-20 p-7 "
         style={{ backgroundImage: "url('/img1.jpg')" }}
       >
         <div className="flex items-center justify-center">
+          <h2 className="text-[64px] -mt-20 text-vrayi">{names[1]}</h2>
+          <span className="text-9xl -mt-20 text-taki"> & </span>
           <h2 className="text-[64px] mb-20 text-vrayi">{names[0]}</h2>
-          <span className="text-9xl text-taki"> & </span>
-          <h2 className="text-[64px] mt-20 text-vrayi">{names[1]}</h2>
         </div>
         <p className="FontSHK_Dzeragir text-[64px] text-vrayi">{date}</p>
       </div>
