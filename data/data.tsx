@@ -8,7 +8,7 @@ export const txt1_1 =
 export const txt2 ="Խնդրում ենք նախապես տեղեկացնել\n Ձեր մասնակցության մասին մինչև \n Հունիսի 15-ը \n Սիրո՛վ սպասում ենք";
 export const txt2_1 ="Մասնակցության մասին Խնդրում ենք \n Տեղեկացնել մինչև \n Հունիսի 15-ը";
 export const txt3 =
-  "Նշանադրությանը տեղի կունենա \nջրվեժի Դվին ռեստորանում \nժամը 18:00-ին";
+  "Նշանադրությունը տեղի կունենա \nջրվեժի Դվին ռեստորանում \nժամը 18:00-ին";
 
 export const vazoxTox='I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You'
 
