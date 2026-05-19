@@ -1,14 +1,14 @@
 export const names = ["Լևոն", "Դիանա"];
 export const date = "01/07/2026";
 export const txt1 =
-  "Դուք հրավիրված եք մեր Հարսանիքին\nՕր որտեղ հիմք կդրվի\n Նոր ընտանիքի";
+  "Դուք հրավիրված եք մեր նշանադրությանը\nՕր որտեղ հիմք կդրվի\n Նոր ընտանիքի";
 
 export const txt1_1 =
-  "Դուք հրավիրված եք մեր Հարսանիքին \nՕր որտեղ հիմք կդրվի\n Նոր ընտանիքի";
+  "Դուք հրավիրված եք մեր նշանադրությանը \nՕր որտեղ հիմք կդրվի\n Նոր ընտանիքի";
 export const txt2 ="Խնդրում ենք նախապես տեղեկացնել\n Ձեր մասնակցության մասին մինչև \n Հունիսի 15-ը \n Սիրո՛վ սպասում ենք";
 export const txt2_1 ="Մասնակցության մասին Խնդրում ենք \n Տեղեկացնել մինչև \n Հունիսի 15-ը";
 export const txt3 =
-  "Հարսանիքը տեղի կունենա \nջրվեժի Դվին ռեստորանում \nժամը 18:00-ին";
+  "Նշանադրությանը տեղի կունենա \nջրվեժի Դվին ռեստորանում \nժամը 18:00-ին";
 
 export const vazoxTox='I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You I Love You'
 
